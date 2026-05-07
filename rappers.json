@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Eazy-E",
+        "fact": "Считается крёстным отцом гангста-рэпа",
+        "rarity": "mythic",
+        "image": "images/mythic/eazye.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Tupac Shakur",
+        "fact": "В детсве играл роль Мышиного короля в балете «Щелкунчик»",
+        "rarity": "mythic",
+        "image": "images/mythic/tupac.jpg",
+        "chance": 1
+    },
+    {
+        "name": "The Notorious B.I.G",
+        "fact": "Произвище «Big» Кристофер получил в 10 лет из-за лишнего веса",
+        "rarity": "mythic",
+        "image": "images/mythic/tnbig.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Jay-Z",
+        "fact": "Не записывает  свои тексты, а сочиняет их на ходу",
+        "rarity": "mythic",
+        "image": "images/mythic/jayz.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Nas",
+        "fact": "Свой дебютный альбом «lllmatic», Nas записал и выпустио в возрасте 19 лет",
+        "rarity": "mythic",
+        "image": "images/mythic/nas.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Eminem",
+        "fact": "В дестве мечтал стать художником комиксов",
+        "rarity": "mythic",
+        "image": "images/mythic/eminem.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Dr.Dre",
+        "fact": "Взял псевдоним в честь баскетболиста Джулиуса Ирвинга",
+        "rarity": "mythic",
+        "image": "images/mythic/drdre.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Kanye West",
+        "fact": "Обладает 22 премиями Грэмми",
+        "rarity": "mythic",
+        "image": "images/mythic/kanwest.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Kendrick Lamar",
+        "fact": "Стал первый репером в истории хип-хоп исполнителем, получившим престижную Пулитцеровскую премию",
+        "rarity": "mythic",
+        "image": "images/mythic/klamar.jpg",
+        "chance": 1
+    },
+    {
+        "name": "MF DOOM",
+        "fact": "Почти всегда выступал в металической маске",
+        "rarity": "mythic",
+        "image": "images/mythic/mfdoom.jpg",
+        "chance": 1
+    },
+    {
+        "name": "Snoop Dogg",
+        "fact": "Стал одной из самых узнаваемых фигур в поп-культуре",
+        "rarity": "legendary",
+        "image": "images/legendary/snoop.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Ice Cube",
+        "fact": "Успешно перешёл из рэпа в кино",
+        "rarity": "legendary",
+        "image": "images/legendary/icecube.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Lil Wayne",
+        "fact": "Записал тысячи треков и микстейпов",
+        "rarity": "legendary",
+        "image": "images/legendary/wayne.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Future",
+        "fact": "Один из главных популяризаторов трэпа",
+        "rarity": "legendary",
+        "image": "images/legendary/future.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Travis Scott",
+        "fact": "Сделал виртуальный концерт в игре Fortnite",
+        "rarity": "legendary",
+        "image": "images/legendary/Travisscott.jpg",
+        "chance": 4
+    },
+    {
+        "name": "J.Cole",
+        "fact": "Часто выпускает альбомы без фитов",
+        "rarity": "legendary",
+        "image": "images/legendary/jcole.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Young Thug",
+        "fact": "Сильно повлиял на звучание нового поколения",
+        "rarity": "legendary",
+        "image": "images/legendary/youngthug.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Chief Keef",
+        "fact": "Стал известен подростком и повлиял на drill",
+        "rarity": "legendary",
+        "image": "images/legendary/chiefkeef.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Playboi Carti",
+        "fact": "Создал уникальный стиль подачи",
+        "rarity": "legendary",
+        "image": "images/legendary/carti.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Tyler the Creator",
+        "fact": "Также дизайнер и продюсер",
+        "rarity": "legendary",
+        "image": "images/legendary/tylertc.jpg",
+        "chance": 4
+    },
+    {
+        "name": "YoungBoy NBA",
+        "fact": "один из самых просматриваемых артистов",
+        "rarity": "legendary",
+        "image": "images/legendary/youngboy.jpg",
+        "chance": 4
+    },
+    {
+        "name": "XXXTENTACION",
+        "fact": "Повлиял на эмо-рэп и новую волну",
+        "rarity": "legendary",
+        "image": "images/legendary/xxxtentacion.jpg",
+        "chance": 4
+    },
+    {
+        "name": "Juice WRLD",
+        "fact": "Известен фристалом и мелодиями",
+        "rarity": "legendary",
+        "image": "images/legendary/juicewrld.jpg",
+        "chance": 4
+    },
+    {
+        "name": "A$AP Rocky",
+        "fact": "Сильно повлиял на стиль, моду и визуал в рэпе",
+        "rarity": "legendary",
+        "image": "images/legendary/asaprocky.jpg",
+        "chance": 4
+    },
+    {
+        "name": "21 Savage",
+        "fact": "Известен холодной и спокойной подачей",
+        "rarity": "epic",
+        "image": "images/epic/21savage.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lil Uzi Vert",
+        "fact": "Популизировал rahe и emo vibe",
+        "rarity": "epic",
+        "image": "images/epic/liluzi.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Meek Mill",
+        "fact": "Начинал с баттл-рэпа",
+        "rarity": "epic",
+        "image": "images/epic/meekmill.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lil Baby",
+        "fact": "Стал суперзвездой за несколько лет",
+        "rarity": "epic",
+        "image": "images/epic/lilbaby.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Gunna",
+        "fact": "Один из главных melodic trap артистов",
+        "rarity": "epic",
+        "image": "images/epic/gunna.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Rody Ricch",
+        "fact": "Взорвал чарты треком The Box",
+        "rarity": "epic",
+        "image": "images/epic/rodyrich.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Polo G",
+        "fact": "Сочетает мелодии и уличные тексты",
+        "rarity": "epic",
+        "image": "images/epic/polog.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lil Durk",
+        "fact": "Один из лидеров Chicago drill",
+        "rarity": "epic",
+        "image": "images/epic/lildurk.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Trippie Redd",
+        "fact": "Смешал эмо-рэп и трэп",
+        "rarity": "epic",
+        "image": "images/epic/trippie.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Jack Harlow",
+        "fact": "Быстро ворвался в мейнстрим",
+        "rarity": "epic",
+        "image": "images/epic/harlow.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Central Cee",
+        "fact": "Один из самых популярныз UK рэперов нового поколения",
+        "rarity": "epic",
+        "image": "images/epic/centralcee.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Stormzy",
+        "fact": "Сделал grime еще популярнее",
+        "rarity": "epic",
+        "image": "images/epic/stormzy.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Dave",
+        "fact": "Известен глубокими текстами",
+        "rarity": "epic",
+        "image": "images/epic/dave.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Skepta",
+        "fact": "Один из главных артистов grime",
+        "rarity": "epic",
+        "image": "images/epic/skepta.jpg",
+        "chance": 15
+    },
+    {
+        "name": "King Von",
+        "fact": "Прославил мрачный storyelling",
+        "rarity": "epic",
+        "image": "images/epic/kingvon.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lil Tecca",
+        "fact": "Свой образ «Ботаника» он использовал, чтобы выделиться на фоне других рэперов",
+        "rarity": "epic",
+        "image": "images/epic/liltecca.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lil Loaded",
+        "fact": "Парень ставший звездой в 19 лет благодаря хиту 6locc 6a6y",
+        "rarity": "epic",
+        "image": "images/epic/lilloaded.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Tay-K",
+        "fact": "Его хит The Race он записывал в бегах",
+        "rarity": "epic",
+        "image": "images/epic/tayk.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lazer Dim 700",
+        "fact": "стал популярным благодаря хаотичному underground-звучанию",
+        "rarity": "epic",
+        "image": "images/epic/lazerdim.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Lil Tony",
+        "fact": "Стал одним из самых обсуждаемых артистов новой Atlanta underground-сцены благодоря мрачному звучанию и альбому TKEY",
+        "rarity": "epic",
+        "image": "images/epic/liltony.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Osamason",
+        "fact": "Быстро набрал популярность в underground благодаря агрессивному rage-звучанию",
+        "rarity": "epic",
+        "image": "images/epic/osamason.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Logic",
+        "fact": "Часто поднимает темы психического здоровья",
+        "rarity": "rare",
+        "image": "images/rare/logic.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Big Sean",
+        "fact": "Начинал карьеру с фристайлов для Kanye",
+        "rarity": "rare",
+        "image": "images/rare/bigsean.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Wiz Khalifa",
+        "fact": "Прославился треком See You Again",
+        "rarity": "rare",
+        "image": "images/rare/wizkalifha.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Rick Ross",
+        "fact": "Известен роскошным стилем и бизнесами",
+        "rarity": "rare",
+        "image": "images/rare/rickrose.jpg",
+        "chance": 30
+    },
+    {
+        "name": "DaBaby",
+        "fact": "Быстро ворвался в мейнстрим",
+        "rarity": "rare",
+        "image": "images/rare/dababy.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Schoolboy Q",
+        "fact": "Участник TDE вместе с Kendrick",
+        "rarity": "rare",
+        "image": "images/rare/schoolboyq.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Ab-Soul",
+        "fact": "Известен сложными текстами",
+        "rarity": "rare",
+        "image": "images/rare/absoul.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Danny Brown",
+        "fact": "Выделяется необычным голосом",
+        "rarity": "rare",
+        "image": "images/rare/brown.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Joey Bada$$",
+        "fact": "Вдохновляется рэпом 90-х",
+        "rarity": "rare",
+        "image": "images/rare/badass.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Freddie Gibbs",
+        "fact": "Один из сильнейших техничных МС",
+        "rarity": "rare",
+        "image": "images/rare/gibbs.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Pusha T",
+        "fact": "Мастер диссов и уличного рэпа",
+        "rarity": "rare",
+        "image": "images/rare/pushat.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Cordae",
+        "fact": "Представитель нового умного рэпа",
+        "rarity": "rare",
+        "image": "images/rare/cordae.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Joyner Lucas",
+        "fact": "Делает сюжетные клипы",
+        "rarity": "rare",
+        "image": "images/rare/joynerlucas.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Hopsin",
+        "fact": "Прославился серией Ill Mind of Hopsin",
+        "rarity": "rare",
+        "image": "images/rare/hopsin.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Big K.R.I.T",
+        "fact": "Сам продюсирует многие треки",
+        "rarity": "rare",
+        "image": "images/rare/bigkrit.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Mac Miller",
+        "fact": "Умел играть на нескольких иструментах",
+        "rarity": "rare",
+        "image": "images/rare/macmiller.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Nipsey Hussle",
+        "fact": "Инвестировал в свой район",
+        "rarity": "rare",
+        "image": "images/rare/hussle.jpg",
+        "chance": 30
+    },
+    {
+        "name": "YG",
+        "fact": "Один из лиц West Coast новой школы",
+        "rarity": "rare",
+        "image": "images/rare/yg.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Tyga",
+        "fact": "Вернулся в чарты после спада",
+        "rarity": "rare",
+        "image": "images/rare/tyga.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Baby Keem",
+        "fact": "Родственник Kendrick Lamar",
+        "rarity": "rare",
+        "image": "images/rare/babykeem.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Ken Carson",
+        "fact": "Часть Optium-движения",
+        "rarity": "rare",
+        "image": "images/rare/carson.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Destroy Lonely",
+        "fact": "Известен атмосферным звучанием",
+        "rarity": "rare",
+        "image": "images/rare/lonely.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Yeat",
+        "fact": "Придумал свой необычный сленг",
+        "rarity": "rare",
+        "image": "images/rare/yeat.jpg",
+        "chance": 30
+    },
+    {
+        "name": "AJ Tracey",
+        "fact": "Добился успеха независимо",
+        "rarity": "rare",
+        "image": "images/rare/ajtracey.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Headie One",
+        "fact": "Один из крупных UK drill артистов",
+        "rarity": "rare",
+        "image": "images/rare/headieone.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Lil Tjay",
+        "fact": "Сочетает мелодии и street rap",
+        "rarity": "rare",
+        "image": "images/rare/liltjay.jpg",
+        "chance": 30
+    },
+    {
+        "name": "fivio Foreign",
+        "fact": "Представитель New York drill",
+        "rarity": "rare",
+        "image": "images/rare/fivio.jpg",
+        "chance": 30
+    },
+    {
+        "name": "A Boogie wit da Hoodie",
+        "fact": "Один из гланых melodic street артистов",
+        "rarity": "rare",
+        "image": "images/rare/hoodie.jpg",
+        "chance": 30
+    },
+    {
+        "name": "NAV",
+        "fact": "Часто работает с Travis Scott",
+        "rarity": "rare",
+        "image": "images/rare/nav.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Belly",
+        "fact": "Писал песни для The Weeknd",
+        "rarity": "rare",
+        "image": "images/rare/belly.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Tory Lanez",
+        "fact": "совмещает рэп и R&B",
+        "rarity": "rare",
+        "image": "images/rare/lanez.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Kevin Gates",
+        "fact": "Известен очень личными текстами",
+        "rarity": "rare",
+        "image": "images/rare/gates.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Boosie Badazz",
+        "fact": "Культовая фигура южного рэпа",
+        "rarity": "rare",
+        "image": "images/rare/badazz.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Tech N9ne",
+        "fact": "Один из самых успешных независимых рэперов",
+        "rarity": "rare",
+        "image": "images/rare/technine.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Immortal Technique",
+        "fact": "Известен политическими треками",
+        "rarity": "rare",
+        "image": "images/rare/immortal.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Earl Sweatshirt",
+        "fact": "Сложная атмосферная лирика",
+        "rarity": "rare",
+        "image": "images/rare/earl.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Vince Staples",
+        "fact": "Сочетает юмор и мрачные темы",
+        "rarity": "rare",
+        "image": "images/rare/staples.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Action Bronson",
+        "fact": "Раньше был шеф-поваром",
+        "rarity": "rare",
+        "image": "images/rare/bronson.jpg",
+        "chance": 30
+    },
+    {
+        "name": "NLE Choppa",
+        "fact": "Интересуется духовными практиками",
+        "rarity": "rare",
+        "image": "images/rare/nlechoppa.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Blueface",
+        "fact": "Известен нестандартным флоу",
+        "rarity": "rare",
+        "image": "images/rare/blueface.jpg",
+        "chance": 30
+    },
+    {
+        "name": "YBN Nahmir",
+        "fact": "Стал популярным подростком",
+        "rarity": "rare",
+        "image": "images/rare/ybnnahmir.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Rich The Kid",
+        "fact": "Основал собственный лейбл",
+        "rarity": "rare",
+        "image": "images/rare/richthekid.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Fetty Wap",
+        "fact": "Прославился хитом Trap Queen",
+        "rarity": "rare",
+        "image": "images/rare/fettywap.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Desiigner",
+        "fact": "Вдохновляется рэпом 90-х",
+        "rarity": "rare",
+        "image": "images/rare/desiigber.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Bloodhound Lil Jeff",
+        "fact": "Представитель underground drill сцены с уличным вайбом",
+        "rarity": "rare",
+        "image": "images/rare/liljeff.jpg",
+        "chance": 30
+    },
+    {
+        "name": "DD Osama",
+        "fact": "Очень узнаваемый в молодой drill-сцене",
+        "rarity": "rare",
+        "image": "images/rare/ddosama.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Notti Osama",
+        "fact": "После смерти его популярность взлетела, как и его брата DD Osama",
+        "rarity": "rare",
+        "image": "images/rare/nottiosama.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Che",
+        "fact": "Артист новой pluggnb/rage сцены с атмосферным стилем",
+        "rarity": "rare",
+        "image": "images/rare/che.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Token",
+        "fact": "Известен быстрым флоу и баттл-вайбом",
+        "rarity": "common",
+        "image": "images/common/token.jpg",
+        "chance": 50
+    },
+    {
+        "name": "NF",
+        "fact": "Делает более чистый и эмоциональный рэп",
+        "rarity": "common",
+        "image": "images/common/nf.jpg",
+        "chance": 50
+    },
+    {
+        "name": "Killer Mike",
+        "fact": "Известен активизмом и социальными темами",
+        "rarity": "common",
+        "image": "images/common/killermike.jpg",
+        "chance": 50
+    },
+    {
+        "name": "El-P",
+        "fact": "Экспериментальный продюсер и рэпер",
+        "rarity": "common",
+        "image": "images/common/elp.jpg",
+        "chance": 50
+    },
+    {
+        "name": "Popcaan",
+        "fact": "Сочетает dancehall и рэп вайб",
+        "rarity": "common",
+        "image": "images/common/popcaan.jpg",
+        "chance": 50
+    },
+    {
+        "name": "EsDeeKid",
+        "fact": "Маштабная теория заговора, согласно которой под его маской скрывается Тимоти Шаламе",
+        "rarity": "common",
+        "image": "images/common/ezdeekid.jpg",
+        "chance": 50
+    },
+    {
+        "name": "Ffawty",
+        "fact": "В его песнях часто есть темы внутрених демонов",
+        "rarity": "common",
+        "image": "images/common/ffawty.jpg",
+        "chance": 50
+    }
+]

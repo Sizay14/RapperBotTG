@@ -1,0 +1,19 @@
+[
+    {
+        "code": "START",
+        "type": "random",
+        "uses": 0
+    },
+    {
+        "code": "LEGEND",
+        "type": "rarity",
+        "rarity": "legendary",
+        "uses": 0
+    },
+    {
+        "code": "SOSA",
+        "type": "fixed",
+        "reward": "Chief Keef",
+        "uses": 0
+    }
+]
