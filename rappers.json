@@ -168,6 +168,13 @@
         "chance": 4
     },
     {
+        "name": "Ski Mask",
+        "fact": "Прославился сумашедшим fast flow и вайбом SoundCloud-эры",
+        "rarity": "legendary",
+        "image": "images/legendary/skimask.jpg",
+        "chance": 4
+    },
+    {
         "name": "21 Savage",
         "fact": "Известен холодной и спокойной подачей",
         "rarity": "epic",
@@ -280,6 +287,13 @@
         "chance": 15
     },
     {
+        "name": "EsDeeKid",
+        "fact": "Маштабная теория заговора, согласно которой под его маской скрывается Тимоти Шаламе",
+        "rarity": "epic",
+        "image": "images/common/ezdeekid.jpg",
+        "chance": 15
+    },
+    {
         "name": "Lil Loaded",
         "fact": "Парень ставший звездой в 19 лет благодаря хиту 6locc 6a6y",
         "rarity": "epic",
@@ -312,6 +326,41 @@
         "fact": "Быстро набрал популярность в underground благодаря агрессивному rage-звучанию",
         "rarity": "epic",
         "image": "images/epic/osamason.jpg",
+        "chance": 15
+    },
+    {
+        "name": "24kGoldn",
+        "fact": "Его трек Mood стал мировым хитом и бил чарты",
+        "rarity": "epic",
+        "image": "images/epic/24kgoldn.jpg",
+        "chance": 15
+    },
+    {
+        "name": "YNW Melly",
+        "fact": "Известен контрастом между мелодичным вокалом и мрачными текстами",
+        "rarity": "epic",
+        "image": "images/epic/ynw.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Meekz",
+        "fact": "Сделал UK street rap более мелодичным и атмосферным",
+        "rarity": "epic",
+        "image": "images/epic/meekz.jpg",
+        "chance": 15
+    },
+    {
+        "name": "SugarHill Keen",
+        "fact": "Участник SugarHill movement и NYC drill-волны",
+        "rarity": "epic",
+        "image": "images/epic/sugarkeem.jpg",
+        "chance": 15
+    },
+    {
+        "name": "Kay Flock",
+        "fact": "Стал одним из главных лиц Bronx drill новой школы",
+        "rarity": "epic",
+        "image": "images/epic/flock.jpg",
         "chance": 15
     },
     {
@@ -644,10 +693,38 @@
         "chance": 30
     },
     {
+        "name": "Sha Gz",
+        "fact": "Быстро набрал популярность в Bronx drill сцене",
+        "rarity": "rare",
+        "image": "images/rare/shagz.jpg",
+        "chance": 30
+    },
+    {
         "name": "Che",
         "fact": "Артист новой pluggnb/rage сцены с атмосферным стилем",
         "rarity": "rare",
         "image": "images/rare/che.jpg",
+        "chance": 30
+    },
+    {
+        "name": "SugarHill Ddot",
+        "fact": "Молодой drill-артист, ставший популярным еще подростком",
+        "rarity": "rare",
+        "image": "images/rare/sugarddot.jpg",
+        "chance": 30
+    },
+    {
+        "name": "fakemink",
+        "fact": "Представитель underground сцены эксперементальным звучанием",
+        "rarity": "rare",
+        "image": "images/rare/fakemink.jpg",
+        "chance": 30
+    },
+    {
+        "name": "Rah Gz",
+        "fact": "Один из заметных артистов Bronx drill-сцены c агрессивной подачей и уличным вайбом",
+        "rarity": "rare",
+        "image": "images/rare/rahgz.jpg",
         "chance": 30
     },
     {
@@ -683,13 +760,6 @@
         "fact": "Сочетает dancehall и рэп вайб",
         "rarity": "common",
         "image": "images/common/popcaan.jpg",
-        "chance": 50
-    },
-    {
-        "name": "EsDeeKid",
-        "fact": "Маштабная теория заговора, согласно которой под его маской скрывается Тимоти Шаламе",
-        "rarity": "common",
-        "image": "images/common/ezdeekid.jpg",
         "chance": 50
     },
     {

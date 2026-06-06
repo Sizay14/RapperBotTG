@@ -1,1 +1,7 @@
 .env
+*.db
+backup/
+logs.txt
+aura_logs.txt
+pycache/
+.vscode/

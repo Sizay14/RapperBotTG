@@ -11,9 +11,15 @@
         "uses": 0
     },
     {
-        "code": "SOSA",
+        "code": "SOSA1",
         "type": "fixed",
         "reward": "Chief Keef",
         "uses": 0
+    },
+    {
+        "code": "MAY",
+        "type": "rarity",
+        "rarity": "legendary",
+        "uses": 19
     }
 ]
