@@ -1,7 +1,9 @@
 .env
-*.db
-backup/
+bjt.db
 logs.txt
-aura_logs.txt
-pycache/
-.vscode/
+admin_panel.bat
+admin_panel.py
+give_cardsTEST.py
+removecardTEST.py
+start_bot.bat
+udate_dbTEST.py
