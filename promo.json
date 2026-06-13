@@ -20,6 +20,12 @@
         "code": "MAY",
         "type": "rarity",
         "rarity": "legendary",
-        "uses": 19
+        "uses": 0
+    },
+    {
+        "code": "223awe56",
+        "type": "fixed",
+        "reward": "Juice WRLD",
+        "uses": 1
     }
 ]
