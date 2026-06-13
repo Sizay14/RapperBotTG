@@ -339,7 +339,7 @@ def top_player(message):
     conn = sqlite3.connect("bjt.db")
     cursor = conn.cursor()
 
-    cursor.execute("SELECT user_id, cards, progress_time FROM users WHERE user_id != ?", (ADMIN_ID))
+    cursor.execute("SELECT user_id, cards, progress_time FROM users WHERE user_id != ?", (ADMIN_ID,))
     users = cursor.fetchall()
     conn.close()
     leaderboard = []
