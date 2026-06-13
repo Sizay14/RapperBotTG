@@ -17,6 +17,8 @@ load_dotenv()
 TOKEN = os.getenv('BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 
+ADMIN_ID = 2019447611
+
 def load_rappers():
     with open("rappers.json","r", encoding='utf-8') as f:
         return json.load(f)
@@ -337,7 +339,7 @@ def top_player(message):
     conn = sqlite3.connect("bjt.db")
     cursor = conn.cursor()
 
-    cursor.execute("SELECT user_id, cards, progress_time FROM users")
+    cursor.execute("SELECT user_id, cards, progress_time FROM users WHERE user_id != ?", (ADMIN_ID))
     users = cursor.fetchall()
     conn.close()
     leaderboard = []
